@@ -19,11 +19,12 @@
 <div style="text-align: center;">
   <h2>👋 About Me</h2>
   <p>Hello, I'm Sneh Bhandari, an aspiring data scientist.</p>
-  <p>👀 I'm deeply interested in machine learning, reinforcement learning algorithms, GPU programming, as well as developing frontend plugins and toolchain projects.</p>
-  <p>🌱 I've been working extensively with Python, Node.js, and Spring Boot, and I enjoy creating innovative tools and fun projects.</p>
+  <p>👀 Interested in applying machine learning and deep learning techniques to solve problems.</p>
+  <p>🌱 Currently working with Transformer models. </p>
+  <p>📚 Deep understanding of statistics and mathematics. </p>
   <p>💞️ Feel free to submit PRs to improve my projects and make them even better.</p>
-  <p>📫 You can reach me via X or follow me on GitHub to stay updated with my latest work.</p>
-  <p>🌑 I often code late at night, so feel free to send suggestions, but I'll respond in the morning.</p>
+  <p>🌑 I love working on new projects. Feel free to reach out to discuss new ideas/ provide suggestions. </p>
+  <p>📫 You can reach me on Linkedin or email.</p>
 </div>
 
 </div>
