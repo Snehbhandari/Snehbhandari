@@ -19,12 +19,16 @@
 <div style="text-align: center;">
   <h2>👋 About Me</h2>
   <p>Hello, I'm Sneh Bhandari, an aspiring data scientist.</p>
-  <p>👀 Interested in applying machine learning and deep learning techniques to solve problems.</p>
-  <p>🌱 Currently working with Transformer models. </p>
-  <p>📚 Deep understanding of statistics and mathematics. </p>
+  <p>👀 Interested in leveraging machine learning and deep learning to tackle real-world challenges.</p>
+  <p>🌱 Currently exploring Transformer models and their applications. </p> 
+  <p>💕 Experienced in working with financial data, now delving into neuroscience through data science.</p>
+  <p>📚 Strong foundation in statistics and mathematics, ensuring data-driven insights. </p>
   <p>💞️ Feel free to submit PRs to improve my projects and make them even better.</p>
-  <p>🌑 I love working on new projects. Feel free to reach out to discuss new ideas/ provide suggestions. </p>
-  <p>📫 You can reach me on Linkedin or email.</p>
+  <p>🚀 Always excited about new projects—reach out to discuss ideas or share suggestions. </p>
+  <p>📫 You can reach me on Linkedin </p>
+
+  <p> </p> 
+  <p>
 </div>
 
 </div>
